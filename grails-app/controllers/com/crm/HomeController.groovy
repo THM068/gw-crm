@@ -6,7 +6,8 @@ package com.crm
 class HomeController {
 
     def index() {
-        //render currentUsername()
+        def model = [success: true, message: 'You can accss a protected resource']
+        render model
     }
 
     def form() {

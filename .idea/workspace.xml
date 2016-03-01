@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="651de5ee-b8c3-4642-b45d-b5a0e1f3e163" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/home/form.gsp" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__aopalliance_aopalliance_1_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__args4j_args4j_2_0_26.xml" afterPath="" />
@@ -200,68 +199,19 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__xml_apis_xml_apis_1_0_b2.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__xml_apis_xml_apis_1_4_01.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.asscache" afterPath="$PROJECT_DIR$/.asscache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure1$_closure3.class" afterPath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure1$_closure3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/BootStrap.class" afterPath="$PROJECT_DIR$/build/classes/main/BootStrap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/HomeController.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/HomeController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/Role$__clinit__closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/Role$__clinit__closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/Role$__clinit__closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/Role$__clinit__closure2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/Role.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/Role.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/TraitSCC$Trait$FieldHelper.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/TraitSCC$Trait$FieldHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/TraitSCC$Trait$Helper.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/TraitSCC$Trait$Helper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/TraitSCC.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/TraitSCC.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/User$__clinit__closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/User$__clinit__closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/User$__clinit__closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/User$__clinit__closure2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/User.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$__clinit__closure8$_closure12$_closure13.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$__clinit__closure8$_closure12$_closure13.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$__clinit__closure8$_closure12.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$__clinit__closure8$_closure12.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$__clinit__closure8.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$__clinit__closure8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$__clinit__closure9.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$__clinit__closure9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_criteriaFor_closure1$_closure10.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_criteriaFor_closure1$_closure10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_criteriaFor_closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_criteriaFor_closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_removeAll_closure4.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_removeAll_closure4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_removeAll_closure5.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_removeAll_closure5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_removeAll_closure6.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_removeAll_closure6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_removeAll_closure7.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_removeAll_closure7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_remove_closure2$_closure11.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_remove_closure2$_closure11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_remove_closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_remove_closure2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_remove_closure3.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole$_remove_closure3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole.class" afterPath="$PROJECT_DIR$/build/classes/main/com/crm/UserRole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/crm/Application.class" afterPath="$PROJECT_DIR$/build/classes/main/crm/Application.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/crm/ApplicationLoader.class" afterPath="$PROJECT_DIR$/build/classes/main/crm/ApplicationLoader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/crm/UrlMappings$__clinit__closure1$_closure2$_closure3.class" afterPath="$PROJECT_DIR$/build/classes/main/crm/UrlMappings$__clinit__closure1$_closure2$_closure3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/crm/UrlMappings$__clinit__closure1$_closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/crm/UrlMappings$__clinit__closure1$_closure2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/crm/UrlMappings$__clinit__closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/crm/UrlMappings$__clinit__closure1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/crm/UrlMappings.class" afterPath="$PROJECT_DIR$/build/classes/main/crm/UrlMappings.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___crm_gw_crm___gw_crm_0_1_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___crm_gw_crm___gw_crm_0_1_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___crm_gw_crm___gw_crm_0_1_war__exploded_.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___crm_gw_crm___gw_crm_0_1_war__exploded_.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/application.groovy" afterPath="$PROJECT_DIR$/build/resources/main/application.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/messages_cs_CZ.properties" afterPath="$PROJECT_DIR$/build/resources/main/messages_cs_CZ.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/messages_da.properties" afterPath="$PROJECT_DIR$/build/resources/main/messages_da.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/messages_de.properties" afterPath="$PROJECT_DIR$/build/resources/main/messages_de.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/messages_es.properties" afterPath="$PROJECT_DIR$/build/resources/main/messages_es.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/messages_fr.properties" afterPath="$PROJECT_DIR$/build/resources/main/messages_fr.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/messages_it.properties" afterPath="$PROJECT_DIR$/build/resources/main/messages_it.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/messages_ja.properties" afterPath="$PROJECT_DIR$/build/resources/main/messages_ja.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/messages_nb.properties" afterPath="$PROJECT_DIR$/build/resources/main/messages_nb.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/messages_pl.properties" afterPath="$PROJECT_DIR$/build/resources/main/messages_pl.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/messages_pt_BR.properties" afterPath="$PROJECT_DIR$/build/resources/main/messages_pt_BR.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/messages_pt_PT.properties" afterPath="$PROJECT_DIR$/build/resources/main/messages_pt_PT.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/messages_ru.properties" afterPath="$PROJECT_DIR$/build/resources/main/messages_ru.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/messages_sv.properties" afterPath="$PROJECT_DIR$/build/resources/main/messages_sv.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/messages_th.properties" afterPath="$PROJECT_DIR$/build/resources/main/messages_th.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/application.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/application.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/crm/HomeController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/crm/HomeController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/init/BootStrap.groovy" afterPath="$PROJECT_DIR$/grails-app/init/BootStrap.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gw-crm.iml" afterPath="$PROJECT_DIR$/gw-crm.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/crm/UrlMappings.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/crm/UrlMappings.groovy" />
     </list>
     <ignored path="gw-crm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -300,8 +250,18 @@
       <file leaf-file-name="application.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/application.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9193357">
-              <caret line="71" column="2" selection-start-line="71" selection-start-column="2" selection-end-line="71" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.64531434">
+              <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -333,7 +293,17 @@
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/crm/HomeController.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UrlMappings.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/crm/UrlMappings.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -1161,9 +1131,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/grails-app/init/BootStrap.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/com/crm/HomeController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/home/form.gsp" />
         <option value="$PROJECT_DIR$/grails-app/conf/application.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/com/crm/HomeController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/crm/UrlMappings.groovy" />
       </list>
     </option>
   </component>
@@ -1304,6 +1275,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1745,12 +1720,12 @@
       <created>1456825817950</created>
       <option name="number" value="Default" />
       <updated>1456825817950</updated>
-      <workItem from="1456825955703" duration="6595000" />
+      <workItem from="1456825955703" duration="9852000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6595000" />
+    <option name="totallyTimeSpent" value="9852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1820,14 +1795,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/crm/HomeController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/home/form.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.5384617">
@@ -1836,10 +1803,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/crm/HomeController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/crm/UrlMappings.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/application.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9193357">
-          <caret line="71" column="2" selection-start-line="71" selection-start-column="2" selection-end-line="71" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.64531434">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="61" />
           <folding />
         </state>
       </provider>

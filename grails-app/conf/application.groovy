@@ -6,7 +6,7 @@ grails.plugin.springsecurity.userLookup.authorityJoinClassName = 'com.crm.UserRo
 grails.plugin.springsecurity.authority.className = 'com.crm.Role'
 grails.plugin.springsecurity.controllerAnnotations.staticRules = [
 	[pattern: '/',               access: ['permitAll']],
-	[pattern: '/home/**',               access: ['permitAll']],
+	[pattern: '/home/**',               access: ['ROLE_USER']],
 	[pattern: '/error',          access: ['permitAll']],
 	[pattern: '/index',          access: ['permitAll']],
 	[pattern: '/index.gsp',      access: ['permitAll']],
@@ -62,6 +62,10 @@ grails.plugin.springsecurity.rest.token.validation.endpointUrl='/api/validate'
 grails.plugin.springsecurity.rest.token.rendering.usernamePropertyName = 'login'
 grails.plugin.springsecurity.rest.token.rendering.tokenPropertyName = 'access_token'
 grails.plugin.springsecurity.rest.token.rendering.authoritiesPropertyName = 'permissions'
+
+grails.plugin.springsecurity.rest.token.storage.jwt.useSignedJwt=true
+grails.plugin.springsecurity.rest.token.storage.jwt.secret = 'qrD6h8K6S9503Q06Y6Rfk21TErImPYqa'
+grails.plugin.springsecurity.rest.token.storage.jwt.expiration = 7200
 
 // use this when you want to send credential using a normal parameter
 //grails.plugin.springsecurity.rest.login.useRequestParamsCredentials=true
