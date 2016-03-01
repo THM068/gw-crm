@@ -8,4 +8,8 @@ class HomeController {
     def index() {
         //render currentUsername()
     }
+
+    def form() {
+
+    }
 }

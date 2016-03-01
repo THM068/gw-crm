@@ -8,7 +8,7 @@ class BootStrap {
 
         def userRole = new Role('ROLE_USER').save()
 
-        def me = new User('me@sergiodelamo.com', 'groovycalamari').save()
+        def me = new User('admin', 'admin').save()
 
         UserRole.create me, userRole
 
