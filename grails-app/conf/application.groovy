@@ -41,6 +41,7 @@ grails.plugin.springsecurity.filterChain.chainMap = [
 				filters: 'JOINED_FILTERS,-restTokenValidationFilter,-restExceptionTranslationFilter'
 		]
 ]
+grails.plugin.springsecurity.useSecurityEventListener = true
 grails.plugin.springsecurity.rest.login.active=true
 grails.plugin.springsecurity.rest.login.endpointUrl='/api/login'
 grails.plugin.springsecurity.rest.login.failureStatusCode=401

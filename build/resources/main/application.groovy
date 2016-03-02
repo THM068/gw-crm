@@ -41,6 +41,7 @@ grails.plugin.springsecurity.filterChain.chainMap = [
 				filters: 'JOINED_FILTERS,-restTokenValidationFilter,-restExceptionTranslationFilter'
 		]
 ]
+grails.plugin.springsecurity.useSecurityEventListener = true
 grails.plugin.springsecurity.rest.login.active=true
 grails.plugin.springsecurity.rest.login.endpointUrl='/api/login'
 grails.plugin.springsecurity.rest.login.failureStatusCode=401
@@ -72,6 +73,6 @@ grails.plugin.springsecurity.rest.token.storage.jwt.expiration = 7200
 //grails.plugin.springsecurity.rest.login.usernameParameter='username'
 //grails.plugin.springsecurity.rest.login.passwordParameter='password'
 
-//Now try to hit the endpoint with a HTTP header name:‚Ä?Authorization‚Ä? value: the access_token you previously stored in a safe
+//Now try to hit the endpoint with a HTTP header name:‚ÄùAuthorization‚Äù value: the access_token you previously stored in a safe
 //place. You will be logged in and get the email of the user who no longer exists in the database but authenticated correctly once. üòñ
 
