@@ -76,6 +76,9 @@ app.get('/file/read', fileController.read);
 
 //All the customer url mappings
 app.post('/customer/save', customerController.save)
+app.get('/customer/google', customerController.showGoogle);
+app.get('/customer/home', customerController.home);
+app.get('/customer/name', customerController.name);
 
 
 app.post('/login', passport.authenticate('local', {
