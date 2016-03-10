@@ -1,0 +1,18 @@
+module.exports = {
+    'auth': { 'bearer': 'eyJhbGciOiJIUzI1NiJ9.eyJwcmluY2lwYWwiOiJINHNJQUFBQUFBQUFBSlZTUDBcL2JRQlJcL0Rva29RcUpRcVpVWVlBRzJ5cEhvbUttZ2dGUlpnQWhaUUtLNjJBXC8zNEh6bjNwMGhXYXBNTURDQStDTWg4Ulg0SnUzU0QxREJ3TXJNMm5lRzRNQ0N1TWwrOVwvUHYzXC9QVkhWU01oaSt4Wmx3WVB4Vlp6S1Z2VXMxbGJERE1OTGNkUHpPb0k3UTVZakVITm1rQ0Q4Y3JnUmRBaVVjV1BnVGJiSmRWQlpOeGRibTFqYUd0dFRYTUtoMFwvTW01cGx1Q2UwanYrRTNlb05ENFRLS2k5NHhJTXJzTVlDME9WU2J1a1pMMmRjbzNST293V3MwQ0ZPMjcwTWFRYmxKWXpZZnFoZ3loWlMyQVV3RERMN0E5RnFoeU5oZmNQWmpQTFJiV0J0aGJBdTVRWlErNWVKR2xZWjkzZE81dVNFdnlFWDFCdXB4NGQ2bTdHUVgzSDQ4OHJJU2cxVjlKTU4yV2lJcjdGblRqeGR5ZE9cL2g1ZGRwc2xBT3JrOCt2ZkZQUHhPZWorM3J5ZnpJdjJRZ3VmK3F3WHNGbzdKVGRqQmZPYVJxZjg3MkxsOVB6dVlHT0FsQjFpNGUzN21QNzYyRnhuWGlVcDA4eXF2aDBSN1Y3WlBSUDUzT3ZrdlMxMFwvQVpQVW9IMFIwbUwwWk5FUVV4eHkxcUpYdDhXaGxhWGdcL3IzWnFPKzZ0NHFMRXE0Sk5HUlBMTmJsaDhvV3RYaDdmR2ZvNmxySXZnR2xWMG1NcVRLUnd2UVVwYTBVTzlmblU4TW45MGM1Z0Y2UFwvTlwvN0o2cExoQURBQUE9Iiwic3ViIjoiYWRtaW4iLCJyb2xlcyI6WyJST0xFX1VTRVIiXSwiZXhwIjoxNDU2OTg1MDAyLCJpYXQiOjE0NTY5Nzc4MDJ9.SSlzUGrYnlpyU-qvRywBaAOdqTLVpmEWt_6xb4Pp6QU',
+    postData: {
+        mimeType: 'application/x-www-form-urlencoded',
+        params: [
+            {
+                name: 'name',
+                value: 'Thando'
+            },
+            {
+                name: 'friend',
+                value: 'Kerrie Channer'
+            }
+        ]
+    }
+
+
+    }}
